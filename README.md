@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hieu Hieuu(Mitchell)
+- 👋 Hi, I’m Hieu (Mitchell)
 - 🎓 Currently study at HUST - Hanoi University of Science and Technology at HEDPSI Vietnam - Japan ICT Program
 - 👀 I’m interested in Web Development
 
