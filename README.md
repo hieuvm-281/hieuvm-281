@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @hieuvm-281
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Hieu Hieuu(Mitchell)
+🎓 Currently study at HUST - Hanoi University of Science and Technology
+                   at HEDPSI Vietnam - Japan ICT Program
+👀 I’m interested in Web Development
 
-<!---
-hieuvm-281/hieuvm-281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me at: mitchell.vu0208@gmail.com
